@@ -7,11 +7,12 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 * Mark task as completed / uncompleted
 
 ### Technologies used:
-* React Hooks
-* React Context
+* HTML
 * SCSS
 * JavaScript
 * uuid library
+* React Hooks
+* React Context
 
 
 ### App demo
